@@ -1,2 +1,1 @@
 # TourOFHeroes
-ng new TourOFHeroes
